@@ -3,6 +3,8 @@
 
 # Jasmine Pass
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/UziTech/jasmine-pass.svg)](https://greenkeeper.io/)
+
 This will add a function `pass()` which is the opposite of `fail()`
 
 ## Install
