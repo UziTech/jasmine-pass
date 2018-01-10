@@ -1,6 +1,6 @@
 {
   "name": "jasmine-pass",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Add pass() to jasmine",
   "repository": "https://github.com/UziTech/jasmine-pass",
   "main": "src/jasmine-pass.js",
