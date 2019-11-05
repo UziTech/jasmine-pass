@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/UziTech/jasmine-pass.png)](https://travis-ci.org/UziTech/jasmine-pass)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/wm617q5u0v139ruw?svg=true)](https://ci.appveyor.com/project/UziTech/jasmine-pass)
+[![Build Status](https://travis-ci.org/UziTech/jasmine-pass.svg?branch=master)](https://travis-ci.org/UziTech/jasmine-pass)
+[![Windows Build Status](https://ci.appveyor.com/api/projects/status/wm617q5u0v139ruw/branch/master?svg=true)](https://ci.appveyor.com/project/UziTech/jasmine-pass)
 
 # Jasmine Pass
 
