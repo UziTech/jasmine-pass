@@ -5,7 +5,7 @@
   "repository": "https://github.com/UziTech/jasmine-pass",
   "main": "src/jasmine-pass.js",
   "scripts": {
-    "test": "jasmine ./spec/*-spec.js",
+    "test": "jasmine -v && jasmine ./spec/*-spec.js",
     "lint": "eslint ."
   },
   "keywords": [
@@ -26,6 +26,6 @@
     "semantic-release": "^19.0.2"
   },
   "peerDependencies": {
-    "jasmine": "<4"
+    "jasmine": ">=2 <5"
   }
 }
