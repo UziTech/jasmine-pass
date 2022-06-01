@@ -3,7 +3,7 @@
 (function (global) {
 
 	if (!global.jasmine) {
-		throw new Error("jasmine must be loaded before jasmine-unspy");
+		throw new Error("jasmine must be loaded before jasmine-pass");
 	}
 
 	global.pass = function () {
